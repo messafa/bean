@@ -1,1 +1,1 @@
-ljAG;FIU'LEH'LKEW   HF
+console.log("Yakhi 9r3adj yakhi aya mchi tl3ab aya");
