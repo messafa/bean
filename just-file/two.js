@@ -1,1 +1,1 @@
-ljAG;FIU'LEH'LKEW   HF
+console.log("GO TO three.js");
