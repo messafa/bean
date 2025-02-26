@@ -1,1 +1,1 @@
-JBKSD;KJGLH'AWLKGQ
+console.log("GO TO two.js");
